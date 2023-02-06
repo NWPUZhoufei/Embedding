@@ -31,9 +31,9 @@ python3 main.py  --gpu 0  --N-shot 5 --data ./data/miniImageNet/  --test 1  --re
 # Trained models:
 ```
 - 5-way 1-shot:
- ./trained_model_1shot/checkpoint.pth
+ ./trained_model_1shot/checkpoint.pth.tar  
 - 5-way 5-shot:
- ./trained_model_5shot/checkpoint.pth
+ ./trained_model_5shot/checkpoint.pth.tar  
  ```
 # My Email:
 ```
