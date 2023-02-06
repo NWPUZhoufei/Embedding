@@ -28,7 +28,7 @@ python3 main.py  --gpu 0  --N-shot 5 --data ./data/miniImageNet/  --test 1  --re
 
 
 ```
-# Trained models:
+# Trained models on miniImageNet dataset:
 ```
 - 5-way 1-shot:
  ./trained_model_1shot/checkpoint.pth.tar  
