@@ -1,0 +1,4 @@
+Please place the following files in this path：
+miniImageNet_category_split_train.pickle
+miniImageNet_category_split_val.pickle
+miniImageNet_category_split_test.pickle
